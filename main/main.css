@@ -1,0 +1,13 @@
+li,a {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.nav__item {
+    width: 350px;
+    height: 281px;
+    border-radius: 12px;
+}
+
+
+
